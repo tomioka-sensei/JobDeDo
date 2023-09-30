@@ -1,12 +1,10 @@
 import React from 'react'
-import bg from "../assets/job-all-transformed.jpeg"
-import corporate from "../assets/chair-lap (1).jpg"
-import lachar from "../assets/abled-transformed.jpeg"
+import Carousel from './Carousel'
 
 const Hero = () => {
   return (
     <div>
-       <img src={bg} alt='reload'/>
+       <Carousel/>
     </div>
   )
 }
