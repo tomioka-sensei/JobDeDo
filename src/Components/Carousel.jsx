@@ -27,7 +27,7 @@ const Carousel = () => {
         <img className="carousel-image" src={image3} alt="Legend 3" />
       </div>
     </Slider>
-  );
+  )
 }
 
 export default Carousel;

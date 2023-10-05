@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../assets/job-logo-transformed.jpeg';
+import logo from '../assets/job-logo-transformed.png';
 import { AiFillHome } from 'react-icons/ai';
 import { RiAccountCircleFill } from 'react-icons/ri';
 
