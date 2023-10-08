@@ -4,7 +4,7 @@ const Position = () => {
   return (
     <div>
         <h1 className='text-3xl font-semibold mx-auto justify-center flex '>Role By Top Rated Comapanies</h1>
-
+        
         {/* Card component */}
 
         <div className='flex'>

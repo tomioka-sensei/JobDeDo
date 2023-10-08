@@ -1,0 +1,42 @@
+.filterJobSection{
+	position: relative;
+	flex:1;
+}
+.filterJobSection{
+	position: relative;
+	flex:1;
+}
+.allJobPostSection{
+	margin: 1% 1%;
+	display:flex;
+}
+.removeFilterImage{
+	float:right;
+	width:8%;
+	cursor:pointer;
+}
+.filterSearchText{
+	display: inline-block;
+    font-weight: 400;
+}
+.clearFilterText{
+	font-weight: 400;
+	color: var(--set-dark-orange);
+	cursor:pointer;
+	background: transparent;
+    padding: 0;
+}
+.filterJobSection hr{
+	margin-top:10px;
+}
+hr {
+    border-top: 1px solid var(--set-light-grey-shade3);
+}
+.filterOptionInputBox {
+    width: 100%;
+    border-radius: 1px;
+    padding: 2%;
+    margin-bottom: 10%;
+    background: var(--set-white);
+    border: 1px solid var(--set-light-grey-shade4);
+}

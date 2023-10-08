@@ -2,11 +2,10 @@ import React from 'react';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
-import image1 from '../assets/job-all-transformed.jpeg';
-import image2 from '../assets/chair-lap (1).jpg';
-import image3 from '../assets/abled-transformed.jpeg'; 
-import './carouselcss.css' ; 
-
+import image1 from '../assets/img/carousel3.jpg';
+import image2 from '../assets/img/carousel2.jpg';
+import image3 from '../assets/img/carousel1.jpg'; 
+import '../assets/css/carouselcss.css';
 const Carousel = () => {
   const settings = {
     autoplay: true,
